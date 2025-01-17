@@ -24,9 +24,9 @@ redeem_codes_collection = db['redeem_code-Harveyy']
 attack_logs_collection = db['user_attack_logs']
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '7794130580:AAEBjAvBxf8I7wCZh-4FvPbq9AZSRAtiq4U'
-ADMIN_USER_ID = 5134043595 
-ADMIN_USER_ID = 5134043595 
+TELEGRAM_BOT_TOKEN = '7877132178:AAEchtKKCr8UXkZjM7J_DW1xMx8coYf_3z8'
+ADMIN_USER_ID = 6103581760 
+ADMIN_USER_ID = 6103581760 
 COOLDOWN_PERIOD = timedelta(minutes=1) 
 user_last_attack_time = {} 
 user_attack_history = {}
